@@ -15,7 +15,7 @@ Pre-requisites
 
 - Android Studio 3.x
 
-Getting Started
+Getting Started  
 ---------------
 
 This sample uses the Gradle build system. To build this project, use the   
